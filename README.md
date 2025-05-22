@@ -42,3 +42,16 @@ This plot shows the rolling ratio of short-term vs. long-term training load. Red
 - The logic used here could be extended to real-time monitoring or mobile fitness dashboards
 
 ---
+
+## 💡 Next Steps
+
+- Add subjective fatigue scores or sleep data  
+- Train a logistic regression model using the `Risk_Flag`  
+- Deploy as a Streamlit dashboard  
+- Try cluster analysis to detect “training types”
+
+---
+
+## 🙋‍♀️ About Me
+
+I’m Seval, a data analyst and triathlete based in Amsterdam. This project combines two of my passions: data-driven insight and endurance sports. Connect with me on [LinkedIn](https://www.linkedin.com/in/sevalbozkurt) if you’d like to collaborate!
