@@ -12,7 +12,6 @@ Using weekly summaries, rolling averages, and sport science concepts like the Ac
 - Engineer features like 3-week and 7-week rolling metrics  
 - Calculate the ACWR to estimate load spikes  
 - Flag risky weeks and visualize fatigue risk clearly  
-- Turn personal fitness data into a portfolio-ready ML-style case
 
 ---
 
