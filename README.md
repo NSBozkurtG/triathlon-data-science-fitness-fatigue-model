@@ -42,13 +42,6 @@ This plot shows the rolling ratio of short-term vs. long-term training load. Red
 
 ---
 
-## 💡 Next Steps
-
-- Add subjective fatigue scores or sleep data  
-- Train a logistic regression model using the `Risk_Flag`  
-- Deploy as a Streamlit dashboard  
-- Try cluster analysis to detect “training types”
-
 ---
 
 ## 🙋‍♀️ About Me
